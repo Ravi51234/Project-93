@@ -1,0 +1,19 @@
+#login_img{
+    float:left;
+}
+
+body{
+    background-color: skyblue;
+}
+
+.row{
+    background-color: white;
+    border-radius:50px;
+    border:5px ridge rgb(159, 212, 234);
+    margin:100px 0px;
+    box-shadow:8px 8px 9px;
+}
+
+#main_img{
+    border-radius:50px;
+}
